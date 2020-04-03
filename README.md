@@ -1,3 +1,6 @@
+## INSTALLATION
+Copy <code>.tmux</code> & <code>.tmux.conf</code> to your home directory. Restart terminal & new settings will be applied.
+
 ## This config uses non-standard tmux bindings:
 ### C-b is the default tmux trigger, and still used here
 
